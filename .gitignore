@@ -1,0 +1,6 @@
+# Raw textbook excerpts (copyrighted) — regenerate with extract.py
+text/
+# Personal Drive/Calendar IDs — copy state.example.json to state.json
+state.json
+__pycache__/
+*.pdf

@@ -1,0 +1,67 @@
+CH 101 · Sections 5.4–5.6 · Lewis Structures & Naming Molecular Compounds
+Class: Tue Sep 22, 3:00 PM · 222 Dabney Hall
+Reading: textbook pages 98–103 (PDF pages 104–109) · ~8 min read
+
+THE BIG IDEA
+A Lewis structure is a map of where a molecule's valence electrons sit: which are shared in bonds and which sit alone on an atom. There's one simple count that tells you how many bonds a molecule needs, and from there drawing the structure is bookkeeping. Almost everything later in the course (shapes, polarity, hybridization) starts from a correct Lewis structure.
+
+KEY CONCEPTS
+
+1. Lewis symbols (5.4)
+An atom's Lewis symbol shows its valence electrons as dots on four sides, one per side before any pair up. For main-group elements, valence electrons = group number. N (5A) has 5 dots; Cl (7A) has 7.
+
+2. The octet rule (5.5)
+Nonmetals share electrons until each has 8 valence electrons around it, a filled s + p shell. Hydrogen is the exception: it wants only 2 (a "duet"), so hydrogen always has exactly one bond. Rare exceptions show up with odd electron counts or with boron.
+
+3. Counting shared pairs: SP = ½(ER − VE)
+This is the one formula to know from this reading.
+- ER (electrons required) = 8 × (number of non-H atoms) + 2 × (number of H atoms). That's how many electrons you'd need if nobody shared.
+- VE (valence electrons) = total valence electrons from all atoms. For an ion, add one for each negative charge and subtract one for each positive charge.
+- SP = number of bonding pairs, i.e. how many lines you'll draw.
+Sharing is what closes the gap between what's needed (ER) and what's available (VE).
+
+4. Bond order, length and strength (5.5)
+Bond order = number of shared pairs between two atoms: single (1), double (2), triple (3). Higher bond order means a shorter, stronger bond. Example from Table 5.5: C–C is 1.54 Å and 347 kJ/mol, C=C is 1.33 Å and 612 kJ/mol, and C≡C is 1.20 Å and 820 kJ/mol. Only compare bonds between the same two elements (C–O with C=O, not C–O with N–N).
+
+5. The four-step method (5.6)
+  1. Find SP = ½(ER − VE).
+  2. Draw the skeleton: connect every atom with single bonds, then add the remaining shared pairs as double or triple bonds.
+  3. Add lone pairs until every non-H atom has 8.
+  4. Check: every atom has an octet (H has 2), and the total electrons drawn = VE.
+Rule: never put a double or triple bond on hydrogen or on a halogen.
+
+KEY TERMS
+Valence electrons: outer-shell electrons; for main-group atoms, equal to the group number.
+Lewis symbol: element symbol with its valence electrons as dots.
+Octet rule: nonmetals end up with 8 valence electrons in a Lewis structure.
+Duet: hydrogen's 2-electron closed shell.
+Bonding (shared) pair: 2 electrons shared between atoms, drawn as a line.
+Lone pair: 2 electrons on one atom and not in a bond, drawn as two dots.
+Bond order: number of shared pairs in a bond (1, 2 or 3).
+
+WORKED EXAMPLE 1: carbon monoxide, CO (Exercise 5.6)
+- ER = 8 + 8 = 16 (two non-H atoms)
+- VE = 4 (C) + 6 (O) = 10
+- SP = ½(16 − 10) = 3, a triple bond
+- Draw C≡O, then give each atom one lone pair so each has 8 (6 from the bond + 2).
+- Check: 3 bonds × 2 = 6, plus 2 lone pairs × 2 = 4, total 10 = VE ✓. The C–O bond order is 3.
+
+WORKED EXAMPLE 2: carbon dioxide, CO2 (Exercise 5.7)
+- ER = 3 × 8 = 24
+- VE = 4 + 6 + 6 = 16
+- SP = ½(24 − 16) = 4
+- Skeleton O–C–O uses 2 pairs; add the other 2 as a second bond on each side: O=C=O.
+- Each O gets 2 lone pairs, and C already has 8 from its four bonds.
+- Check: 4 bonds × 2 = 8, plus 4 lone pairs × 2 = 8, total 16 ✓. Each C–O bond order is 2.
+
+QUICK SELF-CHECK: ammonia, NH3
+ER = 8 + 3 × 2 = 14 · VE = 5 + 3 = 8 · SP = 3 · N has 1 lone pair.
+(Try SO2, OF2 and CO3²⁻ from Exercise 5.5 before class. For CO3²⁻, remember the extra 2 electrons.)
+
+NAMING MOLECULAR COMPOUNDS (the naming half of today's lecture is in 5.3, which isn't in the assigned pages)
+Two nonmetals: use prefixes (mono-, di-, tri-, tetra-, penta-, hexa-) and give the second element an "-ide" ending. Drop "mono-" on the first element. Examples: CO is carbon monoxide, N2O4 is dinitrogen tetroxide, PCl5 is phosphorus pentachloride. Ionic compounds (Ch 4) do NOT use prefixes, so don't mix up the two systems.
+
+WHAT TO WATCH FOR IN LECTURE
+- For ions, forgetting to adjust VE for the charge is the #1 error. CO3²⁻ has 4 + 18 + 2 = 24 valence electrons, not 22.
+- In CO, carbon ends up with a triple bond and a lone pair, which looks strange. It's correct. Section 5.8 (Thursday) explains why using formal charge.
+- 5.6 hints at resonance (CO3²⁻ can be drawn more than one way). That's Thursday's topic, 5.7.

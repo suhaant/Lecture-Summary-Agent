@@ -1,0 +1,33 @@
+{
+  "course": "CH 101-010 Chemistry - A Molecular Science",
+  "textbook": "C:/Users/suhaa/Downloads/CH 101 - CAMS.pdf",
+  "class_time": "15:00-16:15",
+  "location": "222 Dabney Hall",
+  "timezone": "America/New_York",
+  "delivery_time": "07:00",
+  "lectures": [
+    {"date": "2026-09-22", "sections": "5.4-5.6", "topic": "Lewis Structures & Naming Molecular Compounds"},
+    {"date": "2026-09-24", "sections": "5.7-5.8", "topic": "Resonance & Formal Charge"},
+    {"date": "2026-10-01", "sections": "6.1-6.3", "topic": "Molecular Shapes (VSEPR)"},
+    {"date": "2026-10-06", "sections": "6.3-6.4", "topic": "Larger Molecules; Sigma & Pi Bonds & Hybridization"},
+    {"date": "2026-10-08", "sections": "6.4-6.5", "topic": "Hybridization Wrap-Up; Introduction to MO Theory"},
+    {"date": "2026-10-13", "sections": "6.5,7.1", "topic": "MO Diagrams, Bond Order & HOMO-LUMO; Conjugation & Color; Gases & Pressure"},
+    {"date": "2026-10-15", "sections": "7.1-7.3", "topic": "Gas Laws, Partial Pressures, KMT & Thermal Energy; Intermolecular Forces"},
+    {"date": "2026-10-22", "sections": "7.4-7.6", "topic": "States of Matter, Vapor Pressure & Phase Diagrams"},
+    {"date": "2026-10-27", "sections": "8.6,9.1", "topic": "Band Theory of Solids; the First Law of Thermodynamics"},
+    {"date": "2026-11-03", "sections": "9.1-9.5", "topic": "Enthalpy, Combustion & Bond Energies; Entropy Begins"},
+    {"date": "2026-11-05", "sections": "9.5-9.8", "topic": "The Second Law, Gibbs Free Energy & Extent of Reaction"},
+    {"date": "2026-11-10", "sections": "9.8-9.10", "topic": "Activation Energy, Rates & Equilibrium"},
+    {"date": "2026-11-12", "sections": "9.10-9.12,10.1", "topic": "Equilibrium Calculations & Le Chatelier's Principle; Solutions Begin"},
+    {"date": "2026-11-17", "sections": "10.2-10.9", "topic": "Solutions: Electrolytes, Precipitation & Solubility Equilibria"},
+    {"date": "2026-11-24", "sections": "11.1-11.4", "topic": "Redox, Half-Reactions, Galvanic Cells & Reduction Potentials"},
+    {"date": "2026-12-01", "sections": "12.1-12.9", "topic": "Acids & Bases, Ka, pH & pKa Survey; Wrap-Up"}
+  ],
+  "skipped": [
+    {"date": "2026-09-29", "reason": "Wellness Day"},
+    {"date": "2026-10-20", "reason": "Fall Break"},
+    {"date": "2026-10-29", "reason": "Exam 2"},
+    {"date": "2026-11-19", "reason": "Exam 3"},
+    {"date": "2026-11-26", "reason": "Thanksgiving"}
+  ]
+}

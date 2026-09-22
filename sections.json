@@ -1,0 +1,442 @@
+{
+ "1.1": [
+  386,
+  "Atomic mass"
+ ],
+ "1.2": [
+  9,
+  "Lavoisier and the Birth of Modern Chemistry"
+ ],
+ "1.3": [
+  11,
+  "John Dalton and Atomic Theory"
+ ],
+ "1.4": [
+  15,
+  "Atoms and Molecules"
+ ],
+ "1.5": [
+  18,
+  "The Mole and Molar Mass"
+ ],
+ "1.6": [
+  21,
+  "Stoichiometry"
+ ],
+ "1.7": [
+  25,
+  "Energy"
+ ],
+ "1.8": [
+  26,
+  "Electromagnetism and Coulomb’s Law"
+ ],
+ "1.9": [
+  28,
+  "Atomic Structure"
+ ],
+ "1.10": [
+  34,
+  "Subatomic Particles, Isotopes, and Ions"
+ ],
+ "1.11": [
+  37,
+  "Dimitri Mendeleev and The Periodic Law"
+ ],
+ "1.12": [
+  41,
+  "Exercises and Solutions"
+ ],
+ "2.1": [
+  42,
+  "The Nature of Light"
+ ],
+ "2.2": [
+  44,
+  "Quantization"
+ ],
+ "2.3": [
+  48,
+  "Bohr Model"
+ ],
+ "2.4": [
+  51,
+  "Quantum Theory"
+ ],
+ "2.5": [
+  53,
+  "The Quantum Numbers"
+ ],
+ "2.6": [
+  56,
+  "Orbital Shapes and Sizes"
+ ],
+ "2.7": [
+  58,
+  "Electron Conﬁgurations"
+ ],
+ "2.8": [
+  64,
+  "Quantum Theory and The Periodic Table"
+ ],
+ "2.9": [
+  66,
+  "Exercises and Solutions"
+ ],
+ "3.1": [
+  67,
+  "Valence Electrons"
+ ],
+ "3.2": [
+  69,
+  "Shielding and Eﬀective Nuclear Charge"
+ ],
+ "3.3": [
+  71,
+  "Relative Atomic Size"
+ ],
+ "3.4": [
+  72,
+  "Relative Orbital Energies"
+ ],
+ "3.5": [
+  75,
+  "Ionization Energy"
+ ],
+ "3.6": [
+  78,
+  "Electronegativity"
+ ],
+ "3.7": [
+  81,
+  "Magnetic Properties"
+ ],
+ "3.8": [
+  82,
+  "Exercises and Solutions"
+ ],
+ "4.1": [
+  83,
+  "Ionic Bonding"
+ ],
+ "4.2": [
+  84,
+  "Naming Ions and Predicting their Charge"
+ ],
+ "4.3": [
+  87,
+  "Ionic vs. Atomic Size"
+ ],
+ "4.4": [
+  88,
+  "Oxidation States"
+ ],
+ "4.5": [
+  94,
+  "Polyatomic Ions"
+ ],
+ "4.6": [
+  95,
+  "Naming Ionic Compounds"
+ ],
+ "4.7": [
+  97,
+  "Exercises and Solutions"
+ ],
+ "5.1": [
+  98,
+  "The Covalent Bond"
+ ],
+ "5.2": [
+  99,
+  "Bond Polarity"
+ ],
+ "5.3": [
+  102,
+  "Naming Binary Covalent Compounds"
+ ],
+ "5.4": [
+  104,
+  "Lewis Symbols of the Elements"
+ ],
+ "5.5": [
+  104,
+  "Lewis Structures of Diatomic Molecules"
+ ],
+ "5.6": [
+  107,
+  "Determining Lewis Structures"
+ ],
+ "5.7": [
+  109,
+  "Resonance"
+ ],
+ "5.8": [
+  112,
+  "Formal Charge and Oxidation State"
+ ],
+ "5.9": [
+  117,
+  "Practice with Lewis Structures"
+ ],
+ "5.10": [
+  119,
+  "Exercises and Solutions"
+ ],
+ "6.1": [
+  120,
+  "Molecular Shapes"
+ ],
+ "6.2": [
+  125,
+  "Central Atoms With More Than Four Electron Regions"
+ ],
+ "6.3": [
+  127,
+  "Larger Molecules"
+ ],
+ "6.4": [
+  128,
+  "Valence Bond Theory and Hybridization"
+ ],
+ "6.5": [
+  137,
+  "Molecular Orbital Theory and Delocalized Bonds"
+ ],
+ "6.6": [
+  148,
+  "Exercises and Solutions"
+ ],
+ "7.1": [
+  149,
+  "Gases"
+ ],
+ "7.2": [
+  156,
+  "Kinetic-Molecular Theory and Thermal Energy"
+ ],
+ "7.3": [
+  158,
+  "Intermolecular Interactions"
+ ],
+ "7.4": [
+  166,
+  "Solids"
+ ],
+ "7.5": [
+  166,
+  "Liquids"
+ ],
+ "7.6": [
+  168,
+  "Changes in State"
+ ],
+ "7.7": [
+  179,
+  "Exercises and Solutions"
+ ],
+ "8.1": [
+  180,
+  "Unit Cells"
+ ],
+ "8.2": [
+  181,
+  "Cubic Unit Cells and Metallic Radii"
+ ],
+ "8.3": [
+  183,
+  "Unit Cell Stoichiometry"
+ ],
+ "8.4": [
+  184,
+  "Coordination Number and Geometry"
+ ],
+ "8.5": [
+  186,
+  "Density and Packing Eﬃciency"
+ ],
+ "8.6": [
+  189,
+  "Band Theory of Simple Metals"
+ ],
+ "8.7": [
+  194,
+  "Ionic Solids and Ionic Radii"
+ ],
+ "8.8": [
+  197,
+  "Network Covalent Solids"
+ ],
+ "8.9": [
+  202,
+  "Molecular Solids and Atomic Radii"
+ ],
+ "8.10": [
+  204,
+  "Comparison of Solid Types"
+ ],
+ "8.11": [
+  204,
+  "Exercises and Solutions"
+ ],
+ "9.1": [
+  205,
+  "First Law of Thermodynamics"
+ ],
+ "9.2": [
+  208,
+  "Enthalpy"
+ ],
+ "9.3": [
+  212,
+  "Enthalpies of Combustion"
+ ],
+ "9.4": [
+  213,
+  "Bond Energies"
+ ],
+ "9.5": [
+  216,
+  "Entropy"
+ ],
+ "9.6": [
+  220,
+  "Second Law of Thermodynamics"
+ ],
+ "9.7": [
+  221,
+  "Free Energy"
+ ],
+ "9.8": [
+  224,
+  "Standard Free Energy and the Extent of Reaction"
+ ],
+ "9.9": [
+  227,
+  "Activation Energy"
+ ],
+ "9.10": [
+  229,
+  "Rates of Reaction and The Rate Law"
+ ],
+ "9.11": [
+  233,
+  "Equilibrium and the Equilibrium Constant"
+ ],
+ "9.12": [
+  238,
+  "Le Chˆatelier’s Principle"
+ ],
+ "9.13": [
+  239,
+  "Exercises and Solutions"
+ ],
+ "10.1": [
+  240,
+  "Concentration"
+ ],
+ "10.2": [
+  243,
+  "Solution Process"
+ ],
+ "10.3": [
+  246,
+  "Organic Compounds"
+ ],
+ "10.5": [
+  251,
+  "Electrolytes"
+ ],
+ "10.6": [
+  255,
+  "Electrolyte Solutions"
+ ],
+ "10.7": [
+  256,
+  "Dissolution of Ionic Substances"
+ ],
+ "10.8": [
+  259,
+  "Precipitation of Ionic Substances"
+ ],
+ "10.9": [
+  263,
+  "Solubility Equilibria"
+ ],
+ "10.10": [
+  265,
+  "Exercises and Solutions"
+ ],
+ "11.1": [
+  266,
+  "Electron Transfer or Redox Reactions"
+ ],
+ "11.2": [
+  274,
+  "Half-Reactions"
+ ],
+ "11.3": [
+  278,
+  "Galvanic Cells"
+ ],
+ "11.4": [
+  284,
+  "Standard Reduction Potentials"
+ ],
+ "11.5": [
+  288,
+  "Writing Redox Reactions"
+ ],
+ "11.6": [
+  291,
+  "Common Batteries"
+ ],
+ "11.7": [
+  293,
+  "Corrosion"
+ ],
+ "11.8": [
+  294,
+  "Electrolytic Cells"
+ ],
+ "11.9": [
+  296,
+  "Exercises and Solutions"
+ ],
+ "12.1": [
+  297,
+  "Lewis Acids and Bases"
+ ],
+ "12.2": [
+  303,
+  "Brønsted Acids"
+ ],
+ "12.3": [
+  308,
+  "Brønsted Acid-Base Reactions"
+ ],
+ "12.4": [
+  310,
+  "Extent of Proton Transfer"
+ ],
+ "12.5": [
+  314,
+  "Acid and Base Strengths"
+ ],
+ "12.6": [
+  317,
+  "Acid Dissociation Constant, K a"
+ ],
+ "12.7": [
+  320,
+  "Solutions of Weak Bases"
+ ],
+ "12.8": [
+  320,
+  "Acid Base Table"
+ ],
+ "12.10": [
+  329,
+  "Exercises and Solutions"
+ ]
+}
